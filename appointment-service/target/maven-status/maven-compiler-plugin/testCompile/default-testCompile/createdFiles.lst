@@ -1,0 +1,4 @@
+com\hms\appointment\repository\AppointmentRepositoryTest.class
+com\hms\appointment\config\RabbitMQConfigTest.class
+com\hms\appointment\controller\AppointmentControllerTest.class
+com\hms\appointment\service\AppointmentServiceTest.class

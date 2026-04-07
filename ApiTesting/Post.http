@@ -1,0 +1,10 @@
+POST http://localhost:8082/api/appointments
+Content-Type: application/json
+
+{
+  "patientId": 1,
+  "doctorId": 1,
+  "appointmentDateTime": "2024-01-15T10:00:00",
+  "reason": "Regular checkup",
+  "department": "CARDIOLOGY"
+}

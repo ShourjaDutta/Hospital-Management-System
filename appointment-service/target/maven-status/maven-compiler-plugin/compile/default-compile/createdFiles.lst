@@ -1,0 +1,9 @@
+com\hms\appointment\config\RabbitMQConfig.class
+com\hms\appointment\model\Appointment.class
+com\hms\appointment\model\AppointmentRequest.class
+com\hms\appointment\service\AppointmentService.class
+com\hms\appointment\repository\AppointmentRepository.class
+com\hms\appointment\model\Appointment$AppointmentStatus.class
+com\hms\appointment\model\AppointmentBookedEvent.class
+com\hms\appointment\AppointmentServiceApplication.class
+com\hms\appointment\controller\AppointmentController.class
