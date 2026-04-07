@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hms.billing.controller.BillingControllerTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.296 s -- in com.hms.billing.controller.BillingControllerTest
